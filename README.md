@@ -15,6 +15,7 @@ The system supports different types of students:
 ### Builder Pattern
 The Builder Pattern is used to construct student objects with parameters.
 
+The UndergraduateStudent class extends the Student class and represents a specific type of student.
 Example of (UndergraduateStudent):
 
 ```java
